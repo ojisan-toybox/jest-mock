@@ -1,0 +1,27 @@
+{
+  "name": "jest-mock",
+  "version": "1.0.0",
+  "description": "mock の練習",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/jest-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/jest-mock/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/jest-mock#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "typescript": "^4.0.3"
+  }
+}
